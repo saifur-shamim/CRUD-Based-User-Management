@@ -39,7 +39,7 @@ function Home() {
     <div className='d-flex flex-column justify-content-center align-items-center bg-light vh-100 w-100'>
       <h1>List of users </h1>
       <div className="w-90 rounded bg-white border shadow p-4">
-      <div className='d-flex justify-contend-end'>
+      <div className='d-flex justify-content-end'>
       <Link to="/create" className='btn btn-success'> Add+ </Link>
       </div>
 
